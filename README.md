@@ -2,5 +2,4 @@
 
 ## Erick Rafael Hasse de Oliveira
 
-
-Este é o meu repositório com meus exercícios.
+Meus exercícios.
