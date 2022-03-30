@@ -1,3 +1,0 @@
-﻿  Origem.cpp
-D:\GitHub\CG-2022-1\Exercício1 - Cubo (aula1)\Exericio8\Origem.cpp(258,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
-  Exericio8.vcxproj -> D:\GitHub\CG-2022-1\Exercício1 - Cubo (aula1)\Debug\Hello3D.exe
