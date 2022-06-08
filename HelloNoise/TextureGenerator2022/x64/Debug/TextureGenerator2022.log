@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\crow1\Desktop\CG-2022-1-main\HelloNoise\TextureGenerator2022\Main.cpp(103,40): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  TextureGenerator2022.vcxproj -> C:\Users\crow1\Desktop\CG-2022-1-main\HelloNoise\x64\Debug\TextureGenerator2022.exe
